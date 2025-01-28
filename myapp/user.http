@@ -1,0 +1,36 @@
+
+
+GET http://localhost:3000/users/1
+###
+
+
+POST http://localhost:3000/users
+Content-Type : application/json
+
+{
+  "id": 2,
+  "firstname" : "Raja",
+  "lastname" : "Ram",
+  "email" : "rajaram@gmail.com",
+  "department" : "IT"
+}
+
+
+###
+
+PUT http://localhost:3000/users/23
+Content-Type : application/json
+
+{
+  "firstname" : "Raja",
+  "lastname" : "Mohan",
+  "email" : "rajaram@gmail.com",
+  "department" : "IT"
+}
+
+###
+
+DELETE http://localhost:3000/users/2
+###
+
+
