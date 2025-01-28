@@ -1,0 +1,19 @@
+{
+  "name": "userprojectbackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajamohan-Reddy/user-dashboard-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajamohan-Reddy/user-dashboard-backend/issues"
+  },
+  "homepage": "https://github.com/Rajamohan-Reddy/user-dashboard-backend#readme",
+  "description": ""
+}
